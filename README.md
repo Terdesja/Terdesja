@@ -8,7 +8,6 @@
 
 - 📫 How to reach me gerfranmarquez@gmail.com
 
-- 📨 You can see my resume <a href="https://github.com/Terdesja/Terdesja/blob/main/Gerfran%20Marquez%20Resume.pdf" target="_blank">here</a>
 
 
 ### Languages and Tools:
